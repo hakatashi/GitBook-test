@@ -40,3 +40,6 @@ Icon
 node_modules
 .grunt
 /_book/
+*.pdf
+*.epub
+*.mobi
